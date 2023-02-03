@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="email_entered_incorrectly">Почта введена некоректно</string>
+    <string name="password_must_be_more_than_five_characters">Пароль должен быть больше 5 символов</string>
+</resources>
